@@ -8,7 +8,7 @@ module.exports = {
         source: 'tsconfig',
         baseUrl: './src',
         tsConfigPath: 'tsconfig.paths.json',
-        debug: false
+        debug: false,
       },
     },
   ],
